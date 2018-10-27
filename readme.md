@@ -6,3 +6,4 @@ C语言把内存空间的操作留给我们，它们让我们对自己写的程�
 #[KERNEL](https://github.com/yaouser/C/tree/master/kernel)
 既然知道这个大写的C字母是干什么用的?为什么不看看linux kernel是怎么工作呢?壮丽
 的风景在这里:)[linux kernel](https://github.com/yaouser/C/tree/master/kernel).
+This file is in Chinese.
